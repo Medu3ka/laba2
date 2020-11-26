@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+E:\лабы программирования\лаба 1.1\Project4\Project4\MyForm.h(306): warning C4715: Project4::MyForm::input1: значение возвращается не при всех путях выполнения
+E:\лабы программирования\лаба 1.1\Project4\Project4\MyForm.h(320): warning C4715: Project4::MyForm::input2: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project4.vcxproj -> E:\лабы программирования\лаба 1.1\Project4\Release\Project4.exe
