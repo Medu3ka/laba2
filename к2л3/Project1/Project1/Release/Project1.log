@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+E:\лабы программирования\к2л3\Project1\Project1\Perevod.h(79,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\лабы программирования\к2л3\Project1\Project1\MyForm.h(120,1): error C2664: "Perevod::Perevod(Perevod &&)": невозможно преобразовать аргумент 1 из "int" в "const Perevod &"
+E:\лабы программирования\к2л3\Project1\Project1\MyForm.h(120,1): message : Причина: невозможно преобразовать "int" в "const Perevod"
+E:\лабы программирования\к2л3\Project1\Project1\MyForm.h(120,14): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+E:\лабы программирования\к2л3\Project1\Project1\Perevod.h(86,1): message : см. объявление "Perevod::Perevod"
+E:\лабы программирования\к2л3\Project1\Project1\MyForm.h(134,1): error C2664: "Perevod::Perevod(Perevod &&)": невозможно преобразовать аргумент 1 из "System::String ^" в "const Perevod &"
+E:\лабы программирования\к2л3\Project1\Project1\MyForm.h(134,1): message : Причина: невозможно преобразовать "System::String ^" в "const Perevod"
+E:\лабы программирования\к2л3\Project1\Project1\MyForm.h(134,14): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+E:\лабы программирования\к2л3\Project1\Project1\Perevod.h(86,1): message : см. объявление "Perevod::Perevod"
